@@ -1,0 +1,757 @@
+[
+  {
+    "id": "ancient_a_retake_donut",
+    "map": "Ancient",
+    "name": "A Retake Donut",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand in the center of this plant. Aim so that the left-hand side of the -3 step in the smoke reticle cradles this rectangular protrusion in the wall. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/ct/a-retake-donut/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/ct/a-retake-donut/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/ct/a-retake-donut/res.jpg"
+    ]
+  },
+  {
+    "id": "ancient_anti_b_rush",
+    "map": "Ancient",
+    "name": "Anti B Rush",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand here. Aim so that the 3 of the smoke reticle is aligned this corner of the building. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/ct/anti-b-rush/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/ct/anti-b-rush/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/ct/anti-b-rush/res.jpg"
+    ]
+  },
+  {
+    "id": "ancient_a_headshot",
+    "map": "Ancient",
+    "name": "A Headshot",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim for this hole in the plant leaf WHILE CROUCHING. Crouching left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/a-headshot/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/a-headshot/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/a-headshot/res.jpg"
+    ]
+  },
+  {
+    "id": "ancient_a_temple",
+    "map": "Ancient",
+    "name": "A Temple",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim for this hole in the plant leaf. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/a-temple/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/a-temple/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/a-temple/res.jpg"
+    ]
+  },
+  {
+    "id": "ancient_b_ct",
+    "map": "Ancient",
+    "name": "B Ct",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim at the top center of this engraving on the wall. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/b-ct/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/b-ct/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/b-ct/res.jpg"
+    ]
+  },
+  {
+    "id": "ancient_mid_doors",
+    "map": "Ancient",
+    "name": "Mid Doors",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim so that the -2 of the smoke reticle is aligned with the fork of this tree. Forward left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/mid-doors/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/mid-doors/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/ancient/smokes/t/mid-doors/res.jpg"
+    ]
+  },
+  {
+    "id": "anubis_b_corner_plant",
+    "map": "Anubis",
+    "name": "B Corner Plant",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the center of this decorative stone row. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/molotovs/t/b-corner-plant/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/molotovs/t/b-corner-plant/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/molotovs/t/b-corner-plant/res.jpg"
+    ]
+  },
+  {
+    "id": "anubis_anti_b_rush",
+    "map": "Anubis",
+    "name": "Anti B Rush",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand in this corner. Aim so that the -2 of the smoke reticle is on the back corner of this stone tower. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/ct/anti-b-rush/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/ct/anti-b-rush/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/ct/anti-b-rush/res.jpg"
+    ]
+  },
+  {
+    "id": "anubis_a_heaven",
+    "map": "Anubis",
+    "name": "A Heaven",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim so that the -2 of the smoke reticle is in the top left corner of this door frame. Forward left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/a-heaven/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/a-heaven/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/a-heaven/res.jpg"
+    ]
+  },
+  {
+    "id": "anubis_b_cross",
+    "map": "Anubis",
+    "name": "B Cross",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Align with the end of this wall. Aim at the bottom line above the decorative stone row, while the vertical axis of the smoke reticle is aligned with the center of the stone row. Standing left and right click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/b-cross/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/b-cross/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/b-cross/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/b-cross/res.jpg"
+    ]
+  },
+  {
+    "id": "anubis_b_ct",
+    "map": "Anubis",
+    "name": "B Ct",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the bottom of this corner, that is sticking out. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/b-ct/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/b-ct/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/b-ct/res.jpg"
+    ]
+  },
+  {
+    "id": "anubis_connector",
+    "map": "Anubis",
+    "name": "Connector",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in the left corner of this door frame. Aim at the point where these two buildings meet. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/connector/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/connector/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/connector/res.jpg"
+    ]
+  },
+  {
+    "id": "anubis_mid_window",
+    "map": "Anubis",
+    "name": "Mid Window",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in the left corner of this door frame. Aim at the corner of this building. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/mid-window/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/mid-window/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/anubis/smokes/t/mid-window/res.jpg"
+    ]
+  },
+  {
+    "id": "dust2_b_tunnels",
+    "map": "Dust2",
+    "name": "B Tunnels",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand here. Aim at the end of this pole in the wall. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/ct/b-tunnels/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/ct/b-tunnels/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/ct/b-tunnels/res.jpg"
+    ]
+  },
+  {
+    "id": "dust2_long",
+    "map": "Dust2",
+    "name": "Long",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand here. Aim at the top left corner of this imaginary rectangle. Left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/ct/long/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/ct/long/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/ct/long/res.jpg"
+    ]
+  },
+  {
+    "id": "dust2_a_cross",
+    "map": "Dust2",
+    "name": "A Cross",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Align yourself to look straight at this line in the wall. Aim your smoke crosshair so that the right angle between the crosshair and the -1 step are to the left of the little cube in the blue wood. Left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/a-cross/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/a-cross/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/a-cross/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/a-cross/res.jpg"
+    ]
+  },
+  {
+    "id": "dust2_b_big_box",
+    "map": "Dust2",
+    "name": "B Big Box",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim at the center of the edge of this board. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-big-box/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-big-box/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-big-box/res.jpg"
+    ]
+  },
+  {
+    "id": "dust2_b_door",
+    "map": "Dust2",
+    "name": "B Door",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim at the corner of this building. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-door/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-door/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-door/result_ct.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-door/result_t.jpg"
+    ]
+  },
+  {
+    "id": "dust2_b_window",
+    "map": "Dust2",
+    "name": "B Window",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim at this spot on the wall. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-window/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-window/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-window/result_ct.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/b-window/result_t.jpg"
+    ]
+  },
+  {
+    "id": "dust2_long_corner",
+    "map": "Dust2",
+    "name": "Long Corner",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim at the bottom bolt of this mount. Standing left click jump throw",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/long-corner/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/long-corner/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/long-corner/res.jpg"
+    ]
+  },
+  {
+    "id": "dust2_mid_to_b",
+    "map": "Dust2",
+    "name": "Mid To B",
+    "type": "Smoke",
+    "side": "T",
+    "description": "",
+    "images": []
+  },
+  {
+    "id": "dust2_xbox",
+    "map": "Dust2",
+    "name": "Xbox",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Wedge yourself in this corner. Aim at this corner. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/xbox/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/xbox/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/dust2/smokes/t/xbox/res.jpg"
+    ]
+  },
+  {
+    "id": "inferno_a_default",
+    "map": "Inferno",
+    "name": "A Default",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand here. Whilst crouching, aim so that the -3 of the smoke reticle sits in the corner of the bottom of this balcony support. Crouching left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/molotovs/t/a-default/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/molotovs/t/a-default/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/molotovs/t/a-default/res.jpg"
+    ]
+  },
+  {
+    "id": "inferno_b_backsite",
+    "map": "Inferno",
+    "name": "B Backsite",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the second gap of the roof tiles right below the tip of the traffic cone. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/molotovs/t/b-backsite/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/molotovs/t/b-backsite/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/molotovs/t/b-backsite/res.jpg"
+    ]
+  },
+  {
+    "id": "inferno_anit_b_rush",
+    "map": "Inferno",
+    "name": "Anit B Rush",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand in this corner. Aim at the tip of the first roof support of this building. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/ct/anit-b-rush/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/ct/anit-b-rush/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/ct/anit-b-rush/res.jpg"
+    ]
+  },
+  {
+    "id": "inferno_a_long",
+    "map": "Inferno",
+    "name": "A Long",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Align with the edge of this wall. Aim so that the -1 of the smoke reticle sits on the top left corner of this door frame. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/a-long/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/a-long/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/a-long/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/a-long/res.jpg"
+    ]
+  },
+  {
+    "id": "inferno_a_short",
+    "map": "Inferno",
+    "name": "A Short",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim so that the -1 of the smoke reticle sits on the right corner of this crossbow wall decoration. Forward left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/a-short/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/a-short/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/a-short/res.jpg"
+    ]
+  },
+  {
+    "id": "inferno_b_boost_cross",
+    "map": "Inferno",
+    "name": "B Boost Cross",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim so that the black square of the scaffolding sits in the top left corner of the smoke reticle. Forward left and right click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/b-boost-cross/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/b-boost-cross/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/b-boost-cross/res.jpg"
+    ]
+  },
+  {
+    "id": "inferno_b_coffins",
+    "map": "Inferno",
+    "name": "B Coffins",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim so that the 2 of the smoke reticle sits in the second gap of the roof tiles, counting from the bottom. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/b-coffins/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/b-coffins/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/inferno/smokes/t/b-coffins/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_a_default",
+    "map": "Mirage",
+    "name": "A Default",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand in this corner. Aim at one of the vertical patterns on this door frame while being in line with its edge. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/molotovs/t/a-default/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/molotovs/t/a-default/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/molotovs/t/a-default/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_b_default",
+    "map": "Mirage",
+    "name": "B Default",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the bottom of the third bar from the right. Running left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/molotovs/t/b-default/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/molotovs/t/b-default/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/molotovs/t/b-default/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_a_cross",
+    "map": "Mirage",
+    "name": "A Cross",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Line up with the center of this post. Aim at the left corner of this post whilst lining up with the center of the post. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-cross/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-cross/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-cross/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-cross/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_a_stairs",
+    "map": "Mirage",
+    "name": "A Stairs",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Aim at the imaginary center of this rectangle in the sky. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-stairs/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-stairs/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-stairs/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_a_ticket",
+    "map": "Mirage",
+    "name": "A Ticket",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Line up with this texture in the wall. Aim at the tip of this protruding board at the tip of this tower. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-ticket/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-ticket/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-ticket/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/a-ticket/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_b_truck",
+    "map": "Mirage",
+    "name": "B Truck",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the bottom right corner of this window. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/b-truck/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/b-truck/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/b-truck/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_b_window",
+    "map": "Mirage",
+    "name": "B Window",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Align with the line on the ground. Aim at the center of these two boards while the horizontal line of the smoke reticle intersects with the corner of this window frame. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/b-window/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/b-window/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/b-window/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/b-window/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_mid_con",
+    "map": "Mirage",
+    "name": "Mid Con",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the center of the top edge of this carpet. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-con/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-con/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-con/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_mid_con_1_way",
+    "map": "Mirage",
+    "name": "Mid Con 1 Way",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim for the connecting line between the two antennas. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-con-1-way/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-con-1-way/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-con-1-way/res.jpg"
+    ]
+  },
+  {
+    "id": "mirage_mid_window",
+    "map": "Mirage",
+    "name": "Mid Window",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the corner where this rail meet the building's frame. Standing left click jump throw while running right.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-window/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-window/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/mirage/smokes/t/mid-window/res.jpg"
+    ]
+  },
+  {
+    "id": "nuke_garage",
+    "map": "Nuke",
+    "name": "Garage",
+    "type": "Smoke",
+    "side": "T",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/garage/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/garage/result_ct.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/garage/result_t.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/garage/screw.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/garage/spot.jpg"
+    ]
+  },
+  {
+    "id": "nuke_heaven",
+    "map": "Nuke",
+    "name": "Heaven",
+    "type": "Smoke",
+    "side": "T",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/heaven/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/heaven/res.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/heaven/screw.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/heaven/spot.jpg"
+    ]
+  },
+  {
+    "id": "nuke_vent_rush",
+    "map": "Nuke",
+    "name": "Vent Rush",
+    "type": "Smoke",
+    "side": "T",
+    "description": "",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/vent-rush/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/vent-rush/result_ct.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/vent-rush/result_t.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/vent-rush/spot.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/nuke/smokes/t/vent-rush/window.jpg"
+    ]
+  },
+  {
+    "id": "overpass_b_barrels",
+    "map": "Overpass",
+    "name": "B Barrels",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand here. Aim at the left eye of this green monster. Running left click jump throw. (very tolerant timing)",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/molotovs/t/b-barrels/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/molotovs/t/b-barrels/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/molotovs/t/b-barrels/res.jpg"
+    ]
+  },
+  {
+    "id": "overpass_b_corner_plant",
+    "map": "Overpass",
+    "name": "B Corner Plant",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand here. Aim at the point where this lamp post intersects the top wire. Standing left and right click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/molotovs/t/b-corner-plant/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/molotovs/t/b-corner-plant/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/molotovs/t/b-corner-plant/res.jpg"
+    ]
+  },
+  {
+    "id": "overpass_anti_b_rush",
+    "map": "Overpass",
+    "name": "Anti B Rush",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand here. Aim at the end of this pole. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/ct/anti-b-rush/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/ct/anti-b-rush/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/ct/anti-b-rush/res.jpg"
+    ]
+  },
+  {
+    "id": "overpass_a_banana_push",
+    "map": "Overpass",
+    "name": "A Banana Push",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Align with the left side of this bench. Aim at the bottom right corner of the top left brick. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/a-banana-push/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/a-banana-push/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/a-banana-push/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/a-banana-push/res.jpg"
+    ]
+  },
+  {
+    "id": "overpass_a_long_push",
+    "map": "Overpass",
+    "name": "A Long Push",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand here. Align with the center of this fence pole. Aim so that the -2 of the smoke reticle aligns with the top left corner of this bench. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/a-long-push/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/a-long-push/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/a-long-push/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/a-long-push/res.jpg"
+    ]
+  },
+  {
+    "id": "overpass_b_heaven",
+    "map": "Overpass",
+    "name": "B Heaven",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim for the intersection between the top wire and this pole. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/b-heaven/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/b-heaven/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/b-heaven/res.jpg"
+    ]
+  },
+  {
+    "id": "overpass_b_water",
+    "map": "Overpass",
+    "name": "B Water",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim so that the 4 of the smoke reticle aligns with the intersection of the brown door frame and the railing. (right tolerance > left tolerance) Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/b-water/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/b-water/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/overpass/smokes/t/b-water/res.jpg"
+    ]
+  },
+  {
+    "id": "vertigo_a_default",
+    "map": "Vertigo",
+    "name": "A Default",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand here. Align with this edge of the sand bags. Aim for the bottom left corner of this support beam. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/molotovs/t/a-default/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/molotovs/t/a-default/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/molotovs/t/a-default/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/molotovs/t/a-default/res.jpg"
+    ]
+  },
+  {
+    "id": "vertigo_b_default",
+    "map": "Vertigo",
+    "name": "B Default",
+    "type": "Molotov",
+    "side": "T",
+    "description": "Stand in this corner. Aim so that the -1 of the smoke reticle sits on the bottom of the yellow line and aim in the center of the imaginary rectangle. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/molotovs/t/b-default/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/molotovs/t/b-default/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/molotovs/t/b-default/res.jpg"
+    ]
+  },
+  {
+    "id": "vertigo_a_ramp",
+    "map": "Vertigo",
+    "name": "A Ramp",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand here. Align with the center of this beam. Aim at the furthest left corner of the first ceiling tile. Run along the wall until your crosshair touches the lamp. Left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/ct/a-ramp/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/ct/a-ramp/align.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/ct/a-ramp/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/ct/a-ramp/res.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/ct/a-ramp/run.jpg"
+    ]
+  },
+  {
+    "id": "vertigo_b_stairs",
+    "map": "Vertigo",
+    "name": "B Stairs",
+    "type": "Smoke",
+    "side": "CT",
+    "description": "Stand in this corner. Aim at the intersection of the horizontal cable and the vertical beam behind the left lamp. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/ct/b-stairs/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/ct/b-stairs/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/ct/b-stairs/res.jpg"
+    ]
+  },
+  {
+    "id": "vertigo_a_cross",
+    "map": "Vertigo",
+    "name": "A Cross",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim the middle of the last roof section. Left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/a-cross/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/a-cross/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/a-cross/res.jpg"
+    ]
+  },
+  {
+    "id": "vertigo_a_headshot",
+    "map": "Vertigo",
+    "name": "A Headshot",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the center of the third crane platform. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/a-headshot/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/a-headshot/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/a-headshot/res.jpg"
+    ]
+  },
+  {
+    "id": "vertigo_b_cross",
+    "map": "Vertigo",
+    "name": "B Cross",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the bottom of the second beam from the right. Standing left click jump throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/b-cross/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/b-cross/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/b-cross/res.jpg"
+    ]
+  },
+  {
+    "id": "vertigo_mid_connector",
+    "map": "Vertigo",
+    "name": "Mid Connector",
+    "type": "Smoke",
+    "side": "T",
+    "description": "Stand in this corner. Aim at the corner where the building and the beam intersect. Standing left click throw.",
+    "images": [
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/mid-connector/aim.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/mid-connector/pos.jpg",
+      "https://raw.githubusercontent.com/SAD3S/CS2Data/main/vertigo/smokes/t/mid-connector/res.jpg"
+    ]
+  }
+]
